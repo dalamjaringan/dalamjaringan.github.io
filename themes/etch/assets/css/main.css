@@ -279,3 +279,13 @@ footer#footer {
     color: #b3b3b3;
     margin: 40px 0;
 }
+
+a {
+    text-decoration: none;
+    color: #b3b3b3;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #369aff;
+}
